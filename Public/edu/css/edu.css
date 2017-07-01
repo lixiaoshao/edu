@@ -1,0 +1,37 @@
+@charset "utf-8"
+/* edu common start */
+.sidebar-menu {
+	width: 280px;
+}
+.panel .panel-heading{
+	padding-bottom: 0px;
+}
+.pull-right{
+	text-align: right;
+}
+/* edu common end */
+/* edu view rewrite start */
+.panel-edu{
+	padding: 0 15px;
+	background-color: #009788;
+	color: #fff;
+	font-size: 16px;
+	line-height: 40px;
+}
+.view .form-group{		
+	clear: both;
+	line-height: 33px;
+}
+.view .form-group label.control-label{
+	color: #222;
+}
+/* edu view rewrite end */
+
+/* edu form rewrite start */
+.form-horizontal .control-label {
+	text-align: left;
+	color: #222;
+}
+/* edu form rewrite end */
+
+
